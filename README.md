@@ -10,7 +10,11 @@ When using this code, please cite:
 
 and 
 
-> David Chardin, Cyprien Gille, Thierry Pourcher and Michel Barlaud : Accurate Diagnosis with a confidence score using the latent space of a new Supervised Autoencoder for clinical metabolomic studies.
+Truchi M et al , Barlaud M, Mari ,B 
+Detecting subtle transcriptomic perturbations induced by lncRNAs Knock-Down in single-cell CRISPRi screening using a new sparse supervised autoencoder neural network
+
+bioRxiv. posted 11 July 2023,
+    http://biorxiv.org/content/early/2023/11/21/2023.07.11.548494?ct=c
 
 
 ## Table of Contents
