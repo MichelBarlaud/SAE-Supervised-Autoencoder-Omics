@@ -27,9 +27,9 @@ bioRxiv. posted 11 July 2023,
 |File/Folder | Description |
 |:---|:---:|
 |`script_autoencoder.py`|Main script to train and evaluate the SAE|
-|`script_NN.py`|Script to train and evaluate the neural network classifier|
+
 |`script_PLSDA_RF_SVM.py`|Script to fit and evaluate classical methods|
-|`datas`|Contains the three databases used in the paper|
+|`datas`|Contains the  databases used in the paper|
 |`functions`|Contains dedicated functions for the three main scripts|
     
 ### **Installation** 
