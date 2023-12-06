@@ -29,7 +29,9 @@ bioRxiv. posted 11 July 2023,
 |`script_autoencoder.py`|Main script to train and evaluate the SAE|
 
 |`script_PLSDA_RF_SVM.py`|Script to fit and evaluate classical methods|
+
 |`datas`|Contains the  databases used in the paper|
+
 |`functions`|Contains dedicated functions for the three main scripts|
     
 ### **Installation** 
