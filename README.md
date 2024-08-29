@@ -6,15 +6,18 @@ In this repository, you will find the code to replicate the statistical study de
   
 When using this code, please cite:
 
-> Barlaud, M., Guyard, F.: Learning sparse deep neural networks using efficient structured projections on convex constraints for green ai. ICPR 2020 Milan Italy (2020)
+> Michel Barlaud and Frederic Guyard.
+Learning a sparse generative non-parametric supervised autoencoder.
+Proceedings of the International Conference on Acoustics, Speech and Signal
+Processing, Toronto, Canada, June 2021.
 
 and 
 
-Truchi M et al , Barlaud M, Mari ,B 
-Detecting subtle transcriptomic perturbations induced by lncRNAs Knock-Down in single-cell CRISPRi screening using a new sparse supervised autoencoder neural network
+Michel Barlaud, Guillaume Perez, and Jean-Paul Marmorat.
+Linear time bi-level l1,infini projection ; application to feature selection and
+sparsification of auto-encoders neural networks.
+http://arxiv.org/abs/2407.16293, 2024
 
-bioRxiv. posted 11 July 2023,
-    http://biorxiv.org/content/early/2023/11/21/2023.07.11.548494?ct=c
 
 
 ## Table of Contents
