@@ -1,4 +1,4 @@
-import functions.functions_torch as ft
+import functions.functions_torch_V8 as ft
 
 
 def weights_and_sparsity(model, tol=1.0e-3):
