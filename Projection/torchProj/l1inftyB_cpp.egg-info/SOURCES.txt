@@ -1,6 +1,0 @@
-l1inftyB.cpp
-setup.py
-l1inftyB_cpp.egg-info/PKG-INFO
-l1inftyB_cpp.egg-info/SOURCES.txt
-l1inftyB_cpp.egg-info/dependency_links.txt
-l1inftyB_cpp.egg-info/top_level.txt
