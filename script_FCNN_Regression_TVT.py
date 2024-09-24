@@ -65,7 +65,7 @@ if __name__ == "__main__":
     #criterion_classification = nn.SmoothL1Loss(reduction="sum")  # SmoothL1Loss
     
     ## Dataset choice
-    file_name= 'Synth_Reg_1000f_64inf_1000s.csv'
+    file_name= 'Synth_Reg_500f_64inf_2000s.csv'
     #file_name = 'dataset_anonymized.csv'
     
     test_size=0.1 #Test size during the train test split
