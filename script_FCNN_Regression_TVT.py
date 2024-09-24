@@ -72,8 +72,8 @@ if __name__ == "__main__":
 
     ## Choose Architecture
     #net_name = 'LeNet'
-    #net_name = "netBio"
-    net_name = 'FAIR' 
+    net_name = "netBio"
+    #net_name = 'FAIR' 
     #net_name = 'dnn'
     
     #Choose if normalisation layer in the network 
