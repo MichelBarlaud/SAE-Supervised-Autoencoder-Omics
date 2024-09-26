@@ -93,7 +93,7 @@ if __name__ == "__main__":
     # Do projection at the middle layer or not
     DO_PROJ_MIDDLE = False
 
-    ETA = 0.1 # Controls feature selection (projection) (L1, L11, L21)
+    ETA = 1.0 # Controls feature selection (projection) (L1, L11, L21)
     GRADIENT_MASK = True # Whether to do a second descent
     if GRADIENT_MASK:
         run_model = "ProjectionLastEpoch"
