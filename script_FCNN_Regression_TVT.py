@@ -15,6 +15,12 @@ Linear time bi-level l1,infini projection ; application to feature selection and
 sparsification of auto-encoders neural networks.
 http://arxiv.org/abs/2407.16293, 2024.
 
+This code minimize the following constrained approach
+in our Fully Connected neural Network (FCNN):
+Loss(W) = ϕ( Ye , Y ) s.t. BP1,∞(W) ≤ η. (1)
+
+Where Y is the true  value and Ye is the estimate age by the neural network, ϕ is the error loss, W are the weights of the FCNN
+and BP1,∞ is the bi-level ℓ1,∞ projection.
     
 """
 #%%
