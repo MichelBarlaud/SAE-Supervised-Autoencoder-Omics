@@ -31,7 +31,7 @@ http://arxiv.org/abs/2407.16293, 2024
 |:---|:---:|
 |`script_autoencoder.py`|Main script to train and evaluate the SAE|
 
-|`script_PLSDA_RF_SVM.py`|Script to fit and evaluate classical methods|
+|`scripts to illustrate the paper _Linear time bi-level l1,infini projection |
 
 |`datas`|Contains the  databases used in the paper|
 
